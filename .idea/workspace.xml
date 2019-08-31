@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="938ff8ce-3fdc-448a-ad02-8615ebd7bd83" name="Default Changelist" comment="" />
+    <list default="true" id="938ff8ce-3fdc-448a-ad02-8615ebd7bd83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/RequestHttp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RequestHttp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RequestHttp/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RequestHttp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RequestHttp/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request/migrations/0002_auto_20190831_1715.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +41,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QBzUYiwnqieYyQvc5LOozV0cRt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -84,12 +111,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567258793027</updated>
-      <workItem from="1567258795722" duration="13348000" />
+      <workItem from="1567258795722" duration="13806000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
