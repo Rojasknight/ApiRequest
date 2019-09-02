@@ -2,8 +2,8 @@ from django.db import models
 
 
 class Request(models.Model):
-    name = models.CharField(max_length=1000)
-    payload = models.CharField(max_length=1000)
+    #name = models.CharField(max_length=1000)
+    #payload = models.CharField(max_length=1000)
 
     created = models.DateTimeField(auto_now_add=True)
     updated = models.DateTimeField(auto_now=True)
